@@ -1,4 +1,4 @@
-from ps3 import *
+from word_game import *
 
 #
 # Test code
